@@ -1,0 +1,365 @@
+Date,Weather
+2048-01-01,Meteor Shower
+2048-01-02,Ashfall
+2048-01-03,Meteor Shower
+2048-01-04,Meteor Shower
+2048-01-05,Clear Skies
+2048-01-06,Wild Magic Storm
+2048-01-07,Ashfall
+2048-01-08,Clear Skies
+2048-01-09,Clear Skies
+2048-01-10,Clear Skies
+2048-01-11,Clear Skies
+2048-01-12,Clear Skies
+2048-01-13,Wild Magic Storm
+2048-01-14,Strange Lights
+2048-01-15,Clear Skies
+2048-01-16,Clear Skies
+2048-01-17,Meteor Shower
+2048-01-18,Wild Magic Storm
+2048-01-19,Strange Lights
+2048-01-20,Clear Skies
+2048-01-21,Light Clouds
+2048-01-22,Clear Skies
+2048-01-23,Clear Skies
+2048-01-24,Clear Skies
+2048-01-25,Clear Skies
+2048-01-26,Clear Skies
+2048-01-27,Clear Skies
+2048-01-28,Clear Skies
+2048-01-29,Ashfall
+2048-01-30,Ashfall
+2048-01-31,Clear Skies
+2048-02-01,Strange Lights
+2048-02-02,Clear Skies
+2048-02-03,Wild Magic Storm
+2048-02-04,Wild Magic Storm
+2048-02-05,Malevolent Storm
+2048-02-06,Meteor Shower
+2048-02-07,Clear Skies
+2048-02-08,Light Clouds
+2048-02-09,Light Clouds
+2048-02-10,Light Clouds
+2048-02-11,Light Clouds
+2048-02-12,Freezing Cold
+2048-02-13,Heavy Clouds
+2048-02-14,Heavy Clouds
+2048-02-15,Snow
+2048-02-16,Blizzard
+2048-02-17,Snow
+2048-02-18,Snow
+2048-02-19,Blizzard
+2048-02-20,Snow
+2048-02-21,Heavy Clouds
+2048-02-22,Light Clouds
+2048-02-23,Light Clouds
+2048-02-24,Freezing Cold
+2048-02-25,Snow
+2048-02-26,Heavy Clouds
+2048-02-27,Freezing Cold
+2048-02-28,Blizzard
+2048-02-29,Snow
+2048-03-01,Thunderstorm
+2048-03-02,Heavy Rain
+2048-03-03,Thunderstorm
+2048-03-04,Rain
+2048-03-05,Thunderstorm
+2048-03-06,Rain
+2048-03-07,Heavy Rain
+2048-03-08,Thunderstorm
+2048-03-09,Thunderstorm
+2048-03-10,Light Clouds
+2048-03-11,Light Clouds
+2048-03-12,Clear Skies
+2048-03-13,Clear Skies
+2048-03-14,Light Clouds
+2048-03-15,Light Clouds
+2048-03-16,Clear Skies
+2048-03-17,Clear Skies
+2048-03-18,High Winds
+2048-03-19,Scorching Heat
+2048-03-20,High Winds
+2048-03-21,High Winds
+2048-03-22,Clear Skies
+2048-03-23,High Winds
+2048-03-24,Strange Lights
+2048-03-25,Clear Skies
+2048-03-26,High Winds
+2048-03-27,Clear Skies
+2048-03-28,Clear Skies
+2048-03-29,Clear Skies
+2048-03-30,Clear Skies
+2048-03-31,Light Clouds
+2048-04-01,Rain
+2048-04-02,Rain
+2048-04-03,Thunderstorm
+2048-04-04,Heavy Rain
+2048-04-05,Light Clouds
+2048-04-06,Rain
+2048-04-07,Light Clouds
+2048-04-08,Thunderstorm
+2048-04-09,Thunderstorm
+2048-04-10,Thunderstorm
+2048-04-11,Thunderstorm
+2048-04-12,Light Clouds
+2048-04-13,Light Clouds
+2048-04-14,Thunderstorm
+2048-04-15,Thunderstorm
+2048-04-16,Thunderstorm
+2048-04-17,Thunderstorm
+2048-04-18,Thunderstorm
+2048-04-19,Thunderstorm
+2048-04-20,Rain
+2048-04-21,Rain
+2048-04-22,Light Clouds
+2048-04-23,Light Clouds
+2048-04-24,Clear Skies
+2048-04-25,High Winds
+2048-04-26,Clear Skies
+2048-04-27,Clear Skies
+2048-04-28,Light Clouds
+2048-04-29,Clear Skies
+2048-04-30,Clear Skies
+2048-05-01,Clear Skies
+2048-05-02,Clear Skies
+2048-05-03,Clear Skies
+2048-05-04,Clear Skies
+2048-05-05,Clear Skies
+2048-05-06,High Winds
+2048-05-07,High Winds
+2048-05-08,High Winds
+2048-05-09,High Winds
+2048-05-10,High Winds
+2048-05-11,High Winds
+2048-05-12,High Winds
+2048-05-13,Clear Skies
+2048-05-14,Light Clouds
+2048-05-15,Clear Skies
+2048-05-16,High Winds
+2048-05-17,High Winds
+2048-05-18,Clear Skies
+2048-05-19,High Winds
+2048-05-20,Clear Skies
+2048-05-21,Clear Skies
+2048-05-22,Clear Skies
+2048-05-23,Strange Lights
+2048-05-24,Scorching Heat
+2048-05-25,Clear Skies
+2048-05-26,Clear Skies
+2048-05-27,Clear Skies
+2048-05-28,Clear Skies
+2048-05-29,High Winds
+2048-05-30,Malevolent Storm
+2048-05-31,Clear Skies
+2048-06-01,Clear Skies
+2048-06-02,Clear Skies
+2048-06-03,Malevolent Storm
+2048-06-04,Scorching Heat
+2048-06-05,Clear Skies
+2048-06-06,High Winds
+2048-06-07,Scorching Heat
+2048-06-08,High Winds
+2048-06-09,Meteor Shower
+2048-06-10,Wild Magic Storm
+2048-06-11,Scorching Heat
+2048-06-12,Clear Skies
+2048-06-13,Clear Skies
+2048-06-14,Clear Skies
+2048-06-15,Clear Skies
+2048-06-16,Light Clouds
+2048-06-17,Light Clouds
+2048-06-18,Clear Skies
+2048-06-19,Clear Skies
+2048-06-20,Light Clouds
+2048-06-21,Clear Skies
+2048-06-22,Clear Skies
+2048-06-23,Clear Skies
+2048-06-24,Clear Skies
+2048-06-25,Clear Skies
+2048-06-26,Clear Skies
+2048-06-27,Clear Skies
+2048-06-28,High Winds
+2048-06-29,Clear Skies
+2048-06-30,Clear Skies
+2048-07-01,High Winds
+2048-07-02,Clear Skies
+2048-07-03,Clear Skies
+2048-07-04,Clear Skies
+2048-07-05,Clear Skies
+2048-07-06,High Winds
+2048-07-07,Scorching Heat
+2048-07-08,Scorching Heat
+2048-07-09,Clear Skies
+2048-07-10,Clear Skies
+2048-07-11,Clear Skies
+2048-07-12,Light Clouds
+2048-07-13,Light Clouds
+2048-07-14,Light Clouds
+2048-07-15,Clear Skies
+2048-07-16,Clear Skies
+2048-07-17,Light Clouds
+2048-07-18,Thunderstorm
+2048-07-19,Light Clouds
+2048-07-20,Light Clouds
+2048-07-21,Thunderstorm
+2048-07-22,Light Clouds
+2048-07-23,Clear Skies
+2048-07-24,Clear Skies
+2048-07-25,Clear Skies
+2048-07-26,Clear Skies
+2048-07-27,Clear Skies
+2048-07-28,Clear Skies
+2048-07-29,Clear Skies
+2048-07-30,Wild Magic Storm
+2048-07-31,Solar Eclipse
+2048-08-01,Meteor Shower
+2048-08-02,Malevolent Storm
+2048-08-03,Solar Eclipse
+2048-08-04,Strange Lights
+2048-08-05,Clear Skies
+2048-08-06,Scorching Heat
+2048-08-07,Solar Eclipse
+2048-08-08,Malevolent Storm
+2048-08-09,Ashfall
+2048-08-10,Clear Skies
+2048-08-11,Clear Skies
+2048-08-12,Scorching Heat
+2048-08-13,Solar Eclipse
+2048-08-14,Meteor Shower
+2048-08-15,Wild Magic Storm
+2048-08-16,Clear Skies
+2048-08-17,Scorching Heat
+2048-08-18,Scorching Heat
+2048-08-19,Strange Lights
+2048-08-20,Malevolent Storm
+2048-08-21,Strange Lights
+2048-08-22,Meteor Shower
+2048-08-23,Scorching Heat
+2048-08-24,Meteor Shower
+2048-08-25,Clear Skies
+2048-08-26,Clear Skies
+2048-08-27,Clear Skies
+2048-08-28,Clear Skies
+2048-08-29,Clear Skies
+2048-08-30,Clear Skies
+2048-08-31,Clear Skies
+2048-09-01,Light Clouds
+2048-09-02,Thunderstorm
+2048-09-03,Thunderstorm
+2048-09-04,Light Clouds
+2048-09-05,Light Clouds
+2048-09-06,Light Clouds
+2048-09-07,Rain
+2048-09-08,Heavy Clouds
+2048-09-09,Thunderstorm
+2048-09-10,Thunderstorm
+2048-09-11,Thunderstorm
+2048-09-12,Thunderstorm
+2048-09-13,Rain
+2048-09-14,Thunderstorm
+2048-09-15,Thunderstorm
+2048-09-16,Thunderstorm
+2048-09-17,Thunderstorm
+2048-09-18,Thunderstorm
+2048-09-19,Thunderstorm
+2048-09-20,Rain
+2048-09-21,Light Clouds
+2048-09-22,Heavy Clouds
+2048-09-23,Rain
+2048-09-24,Thunderstorm
+2048-09-25,Thunderstorm
+2048-09-26,Thunderstorm
+2048-09-27,Thunderstorm
+2048-09-28,Heavy Clouds
+2048-09-29,Rain
+2048-09-30,Light Clouds
+2048-10-01,Light Clouds
+2048-10-02,Light Clouds
+2048-10-03,Heavy Clouds
+2048-10-04,Thunderstorm
+2048-10-05,Rain
+2048-10-06,Thunderstorm
+2048-10-07,Heavy Clouds
+2048-10-08,Light Clouds
+2048-10-09,Clear Skies
+2048-10-10,Clear Skies
+2048-10-11,High Winds
+2048-10-12,Clear Skies
+2048-10-13,Clear Skies
+2048-10-14,Clear Skies
+2048-10-15,Light Clouds
+2048-10-16,Light Clouds
+2048-10-17,Rain
+2048-10-18,Heavy Clouds
+2048-10-19,Light Clouds
+2048-10-20,Thunderstorm
+2048-10-21,Thunderstorm
+2048-10-22,Thunderstorm
+2048-10-23,Thunderstorm
+2048-10-24,Heavy Clouds
+2048-10-25,Light Clouds
+2048-10-26,Light Clouds
+2048-10-27,Heavy Clouds
+2048-10-28,Thunderstorm
+2048-10-29,Light Clouds
+2048-10-30,Light Clouds
+2048-10-31,High Winds
+2048-11-01,High Winds
+2048-11-02,Clear Skies
+2048-11-03,Clear Skies
+2048-11-04,Light Clouds
+2048-11-05,Light Clouds
+2048-11-06,Light Clouds
+2048-11-07,Heavy Clouds
+2048-11-08,Light Clouds
+2048-11-09,Light Clouds
+2048-11-10,Light Clouds
+2048-11-11,Rain
+2048-11-12,Light Clouds
+2048-11-13,Light Clouds
+2048-11-14,Light Clouds
+2048-11-15,Rain
+2048-11-16,Light Clouds
+2048-11-17,Light Clouds
+2048-11-18,Light Clouds
+2048-11-19,Light Clouds
+2048-11-20,Light Clouds
+2048-11-21,Light Clouds
+2048-11-22,Light Clouds
+2048-11-23,Heavy Clouds
+2048-11-24,Light Clouds
+2048-11-25,Light Clouds
+2048-11-26,Light Clouds
+2048-11-27,Clear Skies
+2048-11-28,Light Clouds
+2048-11-29,Heavy Clouds
+2048-11-30,Light Clouds
+2048-12-01,Light Clouds
+2048-12-02,Light Clouds
+2048-12-03,Light Clouds
+2048-12-04,Clear Skies
+2048-12-05,Light Clouds
+2048-12-06,Clear Skies
+2048-12-07,Light Clouds
+2048-12-08,Light Clouds
+2048-12-09,Light Clouds
+2048-12-10,Freezing Cold
+2048-12-11,Heavy Clouds
+2048-12-12,Snow
+2048-12-13,Snow
+2048-12-14,Light Clouds
+2048-12-15,Snow
+2048-12-16,Freezing Cold
+2048-12-17,Light Clouds
+2048-12-18,Heavy Clouds
+2048-12-19,Freezing Cold
+2048-12-20,Blizzard
+2048-12-21,Blizzard
+2048-12-22,Blizzard
+2048-12-23,Blizzard
+2048-12-24,Blizzard
+2048-12-25,Blizzard
+2048-12-26,Freezing Cold
+2048-12-27,Light Clouds
+2048-12-28,Snow
+2048-12-29,Freezing Cold
