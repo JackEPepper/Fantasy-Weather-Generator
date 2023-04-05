@@ -45,11 +45,7 @@ strange_phenomena = dict({
 
 # Generic function to lookup the result on a table according to a random input
 def table_return(table, roll):
-        diff = []
-        for i in table.keys():
-            if roll - i < 0:
-                continue
-            diff.append(i)
+        diff = [i for i in table.keys() if roll - i >= 0]
         return max(diff)
 
 # Calls the correct table/the special table for a given date
@@ -64,7 +60,7 @@ def get_weather(rand, date):
             weather = fall[table_return(fall,rand)]
         if weather == "Strange Phenomena":
             weather = strange_phenomena[table_return(strange_phenomena,random.randint(1,6))]
-        return weather    
+        return weather
 
 def main():
     # Initial random roll on the table
@@ -72,7 +68,7 @@ def main():
     # Can be anytime, future dates work better for use with excel
     x = datetime(2048,1,1)
     cal = []
-    for _ in range(0,364):
+    for _ in range(364):
         # Adjusts the roll by a preset, bounded amount for more predictable weather
         rand += random.randint(-30,30)
         rand = max(min(rand,100),1)
